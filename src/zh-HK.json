@@ -4,7 +4,7 @@
     "languageUpdated": "{{ userId }} 語言已更改為中文（香港）",
     "errors": {
         "commandNotFound": "冇呢個指令喎",
-        "invalidCommandUsage": "指令用法唔啱，應該係：{{ commandUsage }}",
+        "invalidCommandUsage": "指令用法唔啱，應該係 `{{ commandUsage }}`",
         "internal": "個 server 有 D 問題，請稍後再試啦！",
         "invalidSteamUserProfileUrl": "呢個唔係正確嘅 Steam 用戶網址",
         "invalidSteamUserProfile": "呢個唔係正確嘅 Steam 用戶文件",

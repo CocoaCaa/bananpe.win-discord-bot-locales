@@ -1,0 +1,13 @@
+{
+    "greeting": "Yo!",
+    "profileLinked": "{{ userId }} 成功連結咗你嘅資料",
+    "languageUpdated": "{{ userId }} 語言已更改為中文（香港）",
+    "errors": {
+        "commandNotFound": "冇呢個指令喎",
+        "invalidCommandUsage": "指令用法唔啱，應該係：{{ commandUsage }}",
+        "internal": "個 server 有 D 問題，請稍後再試啦！",
+        "invalidSteamUserProfileUrl": "呢個唔係正確嘅 Steam 用戶網址",
+        "invalidSteamUserProfile": "呢個唔係正確嘅 Steam 用戶文件",
+        "profileNotLink": "你嘅資料未連結，請用 `link-profile` 指令"
+    }
+}

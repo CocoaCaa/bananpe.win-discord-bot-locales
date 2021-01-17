@@ -4,6 +4,26 @@
     "profileLinked": "{{ userId }} 成功連結咗你嘅資料",
     "serverLinked": "{{ userId }} 成功連結咗你同{{ serverName }}嘅資料",
     "languageUpdated": "{{ userId }} 語言已更改為中文（香港）",
+    "help": {
+        "commands": {
+            "link-profile": {
+                "example": "{{ prefix }} link-profile <你嘅 Steam 首頁網址>",
+                "description": "連結你 Steam 嘅資料"
+            },
+            "rank": {
+                "example": "{{ prefix }} rank",
+                "description": "顯示你係呢個 Discord 伺服器嘅排行卡"
+            },
+            "show-global": {
+                "example": "{{ prefix }} show-global",
+                "description": "顯示你嘅統計卡"
+            },
+            "set-lang": {
+                "example": "{{ prefix }} set-lang <{{ languages }}>",
+                "description": "設定顯示語言 Set your display language"
+            }
+        }
+    },
     "errors": {
         "commandNotFound": "冇呢個指令喎",
         "invalidCommandUsage": "指令用法唔啱，應該係 `{{ commandUsage }}`",

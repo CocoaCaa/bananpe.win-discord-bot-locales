@@ -11,5 +11,17 @@
         "invalidSteamUserProfile": "呢個唔係正確嘅 Steam 用戶文件",
         "profileNotLink": "你嘅資料未連結，請用 `link-profile` 指令",
         "onlyInGuildCommand": "你只可以係伺服器入面用呢個指令"
+    },
+    "rankingPlayerCard": {
+        "levelRankLabel": "排行",
+        "playerExp": "{{exp}} / {{maxExp}}xp",
+        "statisticsHeading": "統計",
+        "playerJoinedLabel": "已加入 ",
+        "playerJoined": "{{days}} 天",
+        "statisticsSubHeading": "K/D / 勝率 / 總勝數 / 最高撃殺",
+        "modeSingleLabel": "單人",
+        "modeDuosLabel": "雙人",
+        "modeSquadsLabel": "小隊",
+        "mode32vs32Label": "32vs32"
     }
 }

@@ -13,6 +13,7 @@
         "onlyInGuildCommand": "你只可以係伺服器入面用呢個指令"
     },
     "rankingPlayerCard": {
+        "byServerRanking": "按伺服器的排名",
         "levelRankLabel": "排行",
         "playerExp": "{{exp}} / {{maxExp}}xp",
         "statisticsHeading": "統計",

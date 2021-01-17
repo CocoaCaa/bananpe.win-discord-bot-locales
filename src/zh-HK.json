@@ -1,6 +1,7 @@
 {
     "greeting": "Yo!",
     "profileLinked": "{{ userId }} 成功連結咗你嘅資料",
+    "serverLinked": "{{ userId }} 成功連結咗你同{{ serverName }}嘅資料",
     "languageUpdated": "{{ userId }} 語言已更改為中文（香港）",
     "errors": {
         "commandNotFound": "冇呢個指令喎",
@@ -8,6 +9,7 @@
         "internal": "個 server 有 D 問題，請稍後再試啦！",
         "invalidSteamUserProfileUrl": "呢個唔係正確嘅 Steam 用戶網址",
         "invalidSteamUserProfile": "呢個唔係正確嘅 Steam 用戶文件",
-        "profileNotLink": "你嘅資料未連結，請用 `link-profile` 指令"
+        "profileNotLink": "你嘅資料未連結，請用 `link-profile` 指令",
+        "onlyInGuildCommand": "你只可以係伺服器入面用呢個指令"
     }
 }

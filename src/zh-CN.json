@@ -1,3 +1,52 @@
 {
-    "greeting": "你好"
+    "pleaseWait": "请稍候。 。 。",
+    "profileLinked": "{{ userId }} 成功连结资料",
+    "serverLinked": "{{ userId }} 成功连结{{ serverName }}资料",
+    "languageUpdated": "{{ userId }} 语言已更改为中文（简体）",
+    "help": {
+        "commands": {
+            "help": {
+                "example": "{{ prefix }} help",
+                "description": "显示这帮助"
+            },
+            "link-profile": {
+                "example": "{{ prefix }} link-profile <你 Steam 的首页网址>",
+                "description": "连结你 Steam 的资料"
+            },
+            "rank": {
+                "example": "{{ prefix }} rank",
+                "description": "显示你在此 Discord 服务器的排行卡"
+            },
+            "show-global": {
+                "example": "{{ prefix }} show-global <card | banner>",
+                "description": "显示你的统计卡"
+            },
+            "set-lang": {
+                "example": "{{ prefix }} set-lang <{{ languages }}>",
+                "description": "设定显示语言 Set your display language"
+            }
+        }
+    },
+    "errors": {
+        "commandNotFound": "没有此指令",
+        "invalidCommandUsage": "指令用法错误，例子：`{{ commandUsage }}`",
+        "internal": "伺服器内部错误，请稍后再试！",
+        "invalidSteamUserProfileUrl": "不是有效的 Steam 用户网址",
+        "invalidSteamUserProfile": "不是有效的 Steam 用户文件",
+        "profileNotLink": "你的资料未连结，请用 `link-profile` 指令",
+        "onlyInGuildCommand": "你只可以在服务器内用此指令"
+    },
+    "rankingPlayerCard": {
+        "byServerRanking": "按服务器的排名",
+        "levelRankLabel": "排行",
+        "playerExp": "{{exp}} / {{maxExp}}xp",
+        "statisticsHeading": "统计",
+        "playerJoinedLabel": "已加入 ",
+        "playerJoined": "{{days}} 天",
+        "statisticsSubHeading": "K/D / 胜率 / 总胜数 / 最高击杀",
+        "modeSingleLabel": "单人",
+        "modeDuosLabel": "双人",
+        "modeSquadsLabel": "小队",
+        "mode32vs32Label": "32vs32"
+    }
 }

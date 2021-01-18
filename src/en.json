@@ -5,6 +5,10 @@
     "languageUpdated": "{{ userId }} Display language changed to English",
     "help": {
         "commands": {
+            "help": {
+                "example": "{{ prefix }} help",
+                "description": "Show this help"
+            },
             "link-profile": {
                 "example": "{{ prefix }} link-profile <Your Steam profile URL>",
                 "description": "Link your Steam profile"

@@ -5,6 +5,10 @@
     "languageUpdated": "{{ userId }} 語言已更改為中文（香港）",
     "help": {
         "commands": {
+            "help": {
+                "example": "{{ prefix }} help",
+                "description": "顯示呢個幫助"
+            },
             "link-profile": {
                 "example": "{{ prefix }} link-profile <你嘅 Steam 首頁網址>",
                 "description": "連結你 Steam 嘅資料"

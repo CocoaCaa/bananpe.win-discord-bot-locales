@@ -6,7 +6,7 @@
     "help": {
         "commands": {
             "link-profile": {
-                "example": "{{ prefix }} link-profile <你嘅 Steam 首頁網址>",
+                "example": "{{ prefix }} link-profile <Your Steam profile URL>",
                 "description": "Link your Steam profile"
             },
             "rank": {

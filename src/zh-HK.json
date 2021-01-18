@@ -1,5 +1,4 @@
 {
-    "greeting": "Yo!",
     "pleaseWait": "請稍候。。。",
     "profileLinked": "{{ userId }} 成功連結咗你嘅資料",
     "serverLinked": "{{ userId }} 成功連結咗你同{{ serverName }}嘅資料",
@@ -15,7 +14,7 @@
                 "description": "顯示你係呢個 Discord 伺服器嘅排行卡"
             },
             "show-global": {
-                "example": "{{ prefix }} show-global",
+                "example": "{{ prefix }} show-global <card | banner>",
                 "description": "顯示你嘅統計卡"
             },
             "set-lang": {

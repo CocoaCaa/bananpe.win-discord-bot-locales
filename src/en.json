@@ -1,3 +1,48 @@
 {
-    "greeting": "Hello"
+    "pleaseWait": "Please wait...",
+    "profileLinked": "{{ userId }} success connect your profile",
+    "serverLinked": "{{ userId }} success connect your profile with {{ serverName }}",
+    "languageUpdated": "{{ userId }} Display language changed to English",
+    "help": {
+        "commands": {
+            "link-profile": {
+                "example": "{{ prefix }} link-profile <你嘅 Steam 首頁網址>",
+                "description": "Link your Steam profile"
+            },
+            "rank": {
+                "example": "{{ prefix }} rank",
+                "description": "Show your ranking card by current Discord server"
+            },
+            "show-global": {
+                "example": "{{ prefix }} show-global <card | banner>",
+                "description": "Show your global statistics card or banner"
+            },
+            "set-lang": {
+                "example": "{{ prefix }} set-lang <{{ languages }}>",
+                "description": "Set your display language"
+            }
+        }
+    },
+    "errors": {
+        "commandNotFound": "Command not found",
+        "invalidCommandUsage": "Invalid command usage: `{{ commandUsage }}`",
+        "internal": "Internal server error, please try again later",
+        "invalidSteamUserProfileUrl": "Invalid Steam user profile URL",
+        "invalidSteamUserProfile": "Invalid Steam user profile",
+        "profileNotLink": "Profile not link, please use command `link-profile` to link your account",
+        "onlyInGuildCommand": "This command only could use on Discord server"
+    },
+    "rankingPlayerCard": {
+        "byServerRanking": "By Discord server ranking",
+        "levelRankLabel": "Rank",
+        "playerExp": "{{exp}} / {{maxExp}}xp",
+        "statisticsHeading": "Statistics",
+        "playerJoinedLabel": "Joined ",
+        "playerJoined": "{{days}} days",
+        "statisticsSubHeading": "K/D / Wins % / Wins / Most kills",
+        "modeSingleLabel": "Single",
+        "modeDuosLabel": "Duo",
+        "modeSquadsLabel": "Squads",
+        "mode32vs32Label": "32vs32"
+    }
 }

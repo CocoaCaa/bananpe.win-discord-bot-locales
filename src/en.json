@@ -9,20 +9,20 @@
                 "example": "{{ prefix }} help",
                 "description": "Show this help"
             },
-            "link-profile": {
-                "example": "{{ prefix }} link-profile <Your Steam profile URL>",
+            "link": {
+                "example": "{{ prefix }} link <Your Steam profile URL>",
                 "description": "Link your Steam profile"
             },
             "rank": {
                 "example": "{{ prefix }} rank",
                 "description": "Show your ranking card by current Discord server"
             },
-            "show-global": {
-                "example": "{{ prefix }} show-global <card | banner>",
+            "global": {
+                "example": "{{ prefix }} global <card | banner>",
                 "description": "Show your global statistics card or banner"
             },
-            "set-lang": {
-                "example": "{{ prefix }} set-lang <{{ languages }}>",
+            "lang": {
+                "example": "{{ prefix }} lang <{{ languages }}>",
                 "description": "Set your display language"
             }
         }

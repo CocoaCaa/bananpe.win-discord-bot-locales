@@ -9,20 +9,20 @@
                 "example": "{{ prefix }} help",
                 "description": "顯示呢個幫助"
             },
-            "link-profile": {
-                "example": "{{ prefix }} link-profile <你嘅 Steam 首頁網址>",
+            "link": {
+                "example": "{{ prefix }} link <你嘅 Steam 首頁網址>",
                 "description": "連結你 Steam 嘅資料"
             },
             "rank": {
                 "example": "{{ prefix }} rank",
                 "description": "顯示你係呢個 Discord 伺服器嘅排行卡"
             },
-            "show-global": {
-                "example": "{{ prefix }} show-global <card | banner>",
+            "global": {
+                "example": "{{ prefix }} global <card | banner>",
                 "description": "顯示你嘅統計卡"
             },
-            "set-lang": {
-                "example": "{{ prefix }} set-lang <{{ languages }}>",
+            "lang": {
+                "example": "{{ prefix }} lang <{{ languages }}>",
                 "description": "設定顯示語言 Set your display language"
             }
         }

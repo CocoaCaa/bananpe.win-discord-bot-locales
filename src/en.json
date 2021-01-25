@@ -34,7 +34,8 @@
         "invalidSteamUserProfileUrl": "Invalid Steam user profile URL",
         "invalidSteamUserProfile": "Invalid Steam user profile",
         "profileNotLink": "Profile not link, please use command `link-profile` to link your account",
-        "onlyInGuildCommand": "This command only could use on Discord server"
+        "onlyInGuildCommand": "This command only could use on Discord server",
+        "noPlayFabData": "This player didn't play SAR yet"
     },
     "rankingPlayerCard": {
         "byServerRanking": "By Discord server ranking",

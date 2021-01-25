@@ -33,7 +33,7 @@
         "internal": "個 server 有 D 問題，請稍後再試啦！",
         "invalidSteamUserProfileUrl": "呢個唔係正確嘅 Steam 用戶網址",
         "invalidSteamUserProfile": "呢個唔係正確嘅 Steam 用戶文件",
-        "profileNotLink": "你嘅資料未連結，請用 `link-profile` 指令",
+        "profileNotLink": "你嘅資料未連結，請用 `link` 指令",
         "onlyInGuildCommand": "你只可以係伺服器入面用呢個指令",
         "noPlayFabData": "呢個玩家都未玩過 SAR"
     },

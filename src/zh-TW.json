@@ -22,7 +22,7 @@
                 "description": "顯示你的統計卡"
             },
             "lang": {
-                "example": "{{ prefix }} lang <{{ languages }}>",
+                "example": "{{ prefix }} lang",
                 "description": "設定顯示語言 Set your display language"
             }
         }

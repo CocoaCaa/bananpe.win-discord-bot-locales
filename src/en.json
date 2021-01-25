@@ -22,7 +22,7 @@
                 "description": "Show your global statistics card or banner"
             },
             "lang": {
-                "example": "{{ prefix }} lang <{{ languages }}>",
+                "example": "{{ prefix }} lang",
                 "description": "Set your display language"
             }
         }

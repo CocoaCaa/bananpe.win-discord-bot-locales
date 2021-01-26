@@ -25,6 +25,10 @@
             "lang": {
                 "example": "{{ prefix }} lang",
                 "description": "Set your display language"
+            },
+            "admin": {
+                "example": "{{ prefix }} admin setchannel",
+                "description": "Admin commands"
             }
         }
     },
@@ -36,7 +40,8 @@
         "invalidSteamUserProfile": "Invalid Steam user profile",
         "profileNotLink": "Profile not link, please use command `link` to link your account",
         "onlyInGuildCommand": "This command only could use on Discord server",
-        "noPlayFabData": "This player didn't play SAR yet"
+        "noPlayFabData": "This player didn't play SAR yet",
+        "noPermission": "You do not have permission to execute this command"
     },
     "rankingPlayerCard": {
         "byServerRanking": "By Discord server ranking",

@@ -25,6 +25,10 @@
             "lang": {
                 "example": "{{ prefix }} lang",
                 "description": "設定顯示語言 Set your display language"
+            },
+            "admin": {
+                "example": "{{ prefix }} admin setchannel",
+                "description": "Admin commands"
             }
         }
     },
@@ -36,7 +40,8 @@
         "invalidSteamUserProfile": "呢個唔係正確嘅 Steam 用戶文件",
         "profileNotLink": "你嘅資料未連結，請用 `link` 指令",
         "onlyInGuildCommand": "你只可以係伺服器入面用呢個指令",
-        "noPlayFabData": "呢個玩家都未玩過 SAR"
+        "noPlayFabData": "呢個玩家都未玩過 SAR",
+        "noPermission": "你冇權執行呢個命令"
     },
     "rankingPlayerCard": {
         "byServerRanking": "按伺服器的排名",

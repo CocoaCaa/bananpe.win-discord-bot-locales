@@ -3,6 +3,7 @@
     "profileLinked": "{{ userId }} success connect your profile",
     "serverLinked": "{{ userId }} success connect your profile with {{ serverName }}",
     "languageUpdated": "{{ userId }} Display language changed to English",
+    "informationHide": "The information has been hide",
     "help": {
         "commands": {
             "help": {

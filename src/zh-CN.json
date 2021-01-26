@@ -3,6 +3,7 @@
     "profileLinked": "{{ userId }} 成功连结资料",
     "serverLinked": "{{ userId }} 成功连结{{ serverName }}资料",
     "languageUpdated": "{{ userId }} 语言已更改为中文（简体）",
+    "informationHide": "资料已经隐藏",
     "help": {
         "commands": {
             "help": {

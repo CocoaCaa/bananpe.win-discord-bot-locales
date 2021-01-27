@@ -41,7 +41,7 @@
         "internal": "Internal server error, please try again later",
         "invalidSteamUserProfileUrl": "Invalid Steam user profile URL",
         "invalidSteamUserProfile": "Invalid Steam user profile",
-        "profileNotLink": "Profile not link, please use command `link` to link your account",
+        "profileNotLink": "Profile not link, please use command `!bp link <Your Steam profile URL>` to link your account",
         "onlyInGuildCommand": "This command only could use on Discord server",
         "noPlayFabData": "This player didn't play SAR yet",
         "noPermission": "You do not have permission to execute this command"

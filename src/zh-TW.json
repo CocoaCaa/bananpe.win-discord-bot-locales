@@ -41,7 +41,7 @@
         "internal": "伺服器內部錯誤，請稍後再試！",
         "invalidSteamUserProfileUrl": "不是有效的 Steam 用戶網址",
         "invalidSteamUserProfile": "不是有效的 Steam 用戶文件",
-        "profileNotLink": "你的資料未連結，請用 `link` 指令",
+        "profileNotLink": "你的資料未連結，請用 `!bp link <你 Steam 的首頁網址>` 指令",
         "onlyInGuildCommand": "你只可以在伺服器内用此指令",
         "noPlayFabData": "該玩家尚未玩過 SAR",
         "noPermission": "你無權執行此命令"

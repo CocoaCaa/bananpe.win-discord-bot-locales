@@ -58,6 +58,6 @@
         "modeDuosLabel": "雙人",
         "modeSquadsLabel": "小隊",
         "mode32vs32Label": "32vs32",
-        "lastUpdatedTime": "更新時間 {{ dateTime, YYYY年MM月DD日 HH:mm:ss }}"
+        "lastUpdatedTime": "更新時間 {{ dateTime, YYYY年MM月DD日 HH:mm:ss }}UTC"
     }
 }

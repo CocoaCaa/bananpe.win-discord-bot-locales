@@ -57,6 +57,7 @@
         "modeSingleLabel": "Single",
         "modeDuosLabel": "Duo",
         "modeSquadsLabel": "Squads",
-        "mode32vs32Label": "32vs32"
+        "mode32vs32Label": "32vs32",
+        "lastUpdatedTime": "Last updated {{ dateTime, MM/DD/YYYY HH:mm:ss }}"
     }
 }

@@ -59,5 +59,16 @@
         "modeSquadsLabel": "Squads",
         "mode32vs32Label": "32vs32",
         "lastUpdatedTime": "Last updated {{ dateTime, MM/DD/YYYY HH:mm:ss }}UTC"
+    },
+    "sarStoreCard": {
+        "type": {
+            "ticket": {
+                "title": "S.A.W. Shop"
+            },
+            "coin": {
+                "title": "Cackling Carl's Cart"
+            }
+        },
+        "dateTime": "{{ dateTime, MM/DD/YYYY HH:mm:ss }}UTC"
     }
 }

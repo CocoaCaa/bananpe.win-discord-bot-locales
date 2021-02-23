@@ -29,6 +29,10 @@
                 "example": "{{ prefix }} lang",
                 "description": "Set your display language"
             },
+            "shop-preview": {
+                "example":"{{ prefix }} shop-preview <saw | carl>",
+                "description": "Display current S.A.W Shop / Cackling Carl's Cart items"
+            },
             "admin": {
                 "example": "{{ prefix }} admin setchannel",
                 "description": "Admin commands"

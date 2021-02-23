@@ -29,6 +29,10 @@
                 "example": "{{ prefix }} lang",
                 "description": "設定顯示語言 Set your display language"
             },
+            "shop-preview": {
+                "example":"{{ prefix }} shop-preview <saw | carl>",
+                "description": "顯示依家 S.A.W 商店 / CARL 的咔咔車 嘅商品"
+            },
             "admin": {
                 "example": "{{ prefix }} admin setchannel",
                 "description": "Admin commands"

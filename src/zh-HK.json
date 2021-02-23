@@ -59,5 +59,16 @@
         "modeSquadsLabel": "小隊",
         "mode32vs32Label": "32vs32",
         "lastUpdatedTime": "更新時間 {{ dateTime, YYYY年MM月DD日 HH:mm:ss }}UTC"
+    },
+    "sarStoreCard": {
+        "type": {
+            "ticket": {
+                "title": "S.A.W 商店"
+            },
+            "coin": {
+                "title": "CARL 的咔咔車"
+            }
+        },
+        "dateTime": "{{ dateTime, YYYY年MM月DD日 HH:mm:ss }}UTC"
     }
 }

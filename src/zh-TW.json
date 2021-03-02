@@ -1,6 +1,6 @@
 {
     "pleaseWait": "請稍候。。。",
-    "profileLinked": "{{ userId }} 成功連結資料",
+    "profileLinked": "{{ userId }} 成功連結{{ steamUserDisplayName }}資料\nNotes: you could change your language by `!bp lang`",
     "serverLinked": "{{ userId }} 成功連結{{ serverName }}資料",
     "languageUpdated": "{{ userId }} 語言已更改為中文（繁體）",
     "informationHide": "資料已隱藏了喔",
@@ -14,7 +14,7 @@
                 "description": "顯示這幫助"
             },
             "link": {
-                "example": "{{ prefix }} link <你 Steam 的首頁網址>",
+                "example": "{{ prefix }} link <你 Steam 的首頁網址 | Steam ID | 自定義網址名稱>",
                 "description": "連結你 Steam 的資料"
             },
             "rank": {

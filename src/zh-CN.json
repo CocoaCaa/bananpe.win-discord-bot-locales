@@ -1,6 +1,6 @@
 {
     "pleaseWait": "请稍候。 。 。",
-    "profileLinked": "{{ userId }} 成功连结资料",
+    "profileLinked": "{{ userId }} 成功连结{{ steamUserDisplayName }}资料\nNotes: you could change your language by `!bp lang`",
     "serverLinked": "{{ userId }} 成功连结{{ serverName }}资料",
     "languageUpdated": "{{ userId }} 语言已更改为中文（简体）",
     "informationHide": "资料已经隐藏",
@@ -14,7 +14,7 @@
                 "description": "显示这帮助"
             },
             "link": {
-                "example": "{{ prefix }} link <你 Steam 的首页网址>",
+                "example": "{{ prefix }} link <你 Steam 的首页网址 | Steam ID | 自定义网址名称>",
                 "description": "连结你 Steam 的资料"
             },
             "rank": {

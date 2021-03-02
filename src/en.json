@@ -1,6 +1,6 @@
 {
     "pleaseWait": "Please wait...",
-    "profileLinked": "{{ userId }} success connect your profile",
+    "profileLinked": "{{ userId }} success connect {{ steamUserDisplayName }} profile\nNotes: you could change your language by `!bp lang`",
     "serverLinked": "{{ userId }} success connect your profile with {{ serverName }}",
     "languageUpdated": "{{ userId }} Display language changed to English",
     "informationHide": "The information has been hide",
@@ -14,7 +14,7 @@
                 "description": "Show this help"
             },
             "link": {
-                "example": "{{ prefix }} link <Your Steam profile URL>",
+                "example": "{{ prefix }} link <Your Steam profile URL | Steam ID | Custom name>",
                 "description": "Link your Steam profile"
             },
             "rank": {

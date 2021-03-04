@@ -1,6 +1,6 @@
 {
     "pleaseWait": "请稍候。 。 。",
-    "profileLinked": "{{ userId }} 成功连结{{ steamUserDisplayName }}资料\nNotes: you could change your language by `!bp lang`",
+    "profileLinked": "{{ userId }} 成功连结{{ steamUserDisplayName }}资料，你可以使用 `!bp rank` 来查看你的统计资料\nNotes: you could change your language by `!bp lang`",
     "serverLinked": "{{ userId }} 成功连结{{ serverName }}资料",
     "languageUpdated": "{{ userId }} 语言已更改为中文（简体）",
     "informationHide": "资料已经隐藏",

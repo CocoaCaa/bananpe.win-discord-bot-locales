@@ -1,6 +1,6 @@
 {
     "pleaseWait": "Please wait...",
-    "profileLinked": "{{ userId }} success connect {{ steamUserDisplayName }} profile\nNotes: you could change your language by `!bp lang`",
+    "profileLinked": "{{ userId }} success connect {{ steamUserDisplayName }} profile, you could see your stats by `!bp rank`\nNotes: you could change your language by `!bp lang`",
     "serverLinked": "{{ userId }} success connect your profile with {{ serverName }}",
     "languageUpdated": "{{ userId }} Display language changed to English",
     "informationHide": "The information has been hide",

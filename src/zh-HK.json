@@ -52,7 +52,8 @@
         "profileNotLink": "你嘅資料未連結，請用 `!bp link <你嘅 Steam 首頁網址>` 指令",
         "onlyInGuildCommand": "你只可以係伺服器入面用呢個指令",
         "noPlayFabData": "呢個玩家都未玩過 SAR",
-        "noPermission": "你冇權執行呢個命令"
+        "noPermission": "你冇權執行呢個命令",
+        "missingShopItem": "{{ itemId }} 唔知係乜嘢，請找 <@!430880587742576640> 增加呢個物品"
     },
     "rankingPlayerCard": {
         "byServerRanking": "按伺服器的排名",

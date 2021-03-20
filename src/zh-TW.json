@@ -21,10 +21,6 @@
                 "example": "{{ prefix }} rank",
                 "description": "顯示你在此 Discord 伺服器的排行卡"
             },
-            "global": {
-                "example": "{{ prefix }} global <card | banner>",
-                "description": "顯示你的統計卡"
-            },
             "lang": {
                 "example": "{{ prefix }} lang",
                 "description": "設定顯示語言 Set your display language"

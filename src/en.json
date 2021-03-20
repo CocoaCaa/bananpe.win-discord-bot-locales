@@ -21,10 +21,6 @@
                 "example": "{{ prefix }} rank",
                 "description": "Show your ranking card by current Discord server"
             },
-            "global": {
-                "example": "{{ prefix }} global <card | banner>",
-                "description": "Show your global statistics card or banner"
-            },
             "lang": {
                 "example": "{{ prefix }} lang",
                 "description": "Set your display language"

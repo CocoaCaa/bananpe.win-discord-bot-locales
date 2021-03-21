@@ -1,0 +1,79 @@
+{
+    "pleaseWait": "잠시만 기다려주세요 ...",
+    "profileLinked": "{{ userId }} success connect {{ steamUserDisplayName }} profile, you could see your stats by `!bp rank`\nNotes: you could change your language by `!bp lang`",
+    "serverLinked": "{{ userId }} success connect your profile with {{ serverName }}",
+    "languageUpdated": "{{ userId }} Display language changed to English",
+    "informationHide": "정보가 숨겨졌습니다",
+    "admin": {
+        "setAllowChannels": "Now only accept command in {{ channel }}"
+    },
+    "help": {
+        "commands": {
+            "help": {
+                "example": "{{ prefix }} help",
+                "description": "이 도움말 표시"
+            },
+            "link": {
+                "example": "{{ prefix }} link <Your Steam profile URL | Steam ID | Custom name>",
+                "description": "Steam 프로필 연결"
+            },
+            "rank": {
+                "example": "{{ prefix }} rank",
+                "description": "랭킹 카드를 보여주세요"
+            },
+            "lang": {
+                "example": "{{ prefix }} lang",
+                "description": "Set your display language"
+            },
+            "shop-preview-saw": {
+                "example":"{{ prefix }} shop-preview-saw",
+                "description": "[베타] 현재 S.A.W.숍 표시"
+            },
+            "shop-preview-carl": {
+                "example":"{{ prefix }} shop-preview-carl",
+                "description": "[베타] 현재 칼의 카트 아이템 표시"
+            },
+            "admin": {
+                "example": "{{ prefix }} admin setchannel",
+                "description": "Admin commands"
+            }
+        }
+    },
+    "errors": {
+        "commandNotFound": "명령어를 찾을수 없음",
+        "invalidCommandUsage": "잘못된 명령 사용: `{{ commandUsage }}`",
+        "internal": "Internal server error, please try again later",
+        "invalidSteamUserProfileUrl": "Invalid Steam user profile URL",
+        "invalidSteamUserProfile": "Invalid Steam user profile",
+        "profileNotLink": "Profile not link, please use command `!bp link <Your Steam profile URL>` to link your account",
+        "onlyInGuildCommand": "This command only could use on Discord server",
+        "noPlayFabData": "This player didn't play SAR yet",
+        "noPermission": "You do not have permission to execute this command",
+        "missingShopItem": "{{ itemId }} didn't know what is it, please find <@!430880587742576640> for help"
+    },
+    "rankingPlayerCard": {
+        "byServerRanking": "By Discord server ranking",
+        "levelRankLabel": "Rank",
+        "playerExp": "{{exp}} / {{maxExp}}xp",
+        "statisticsHeading": "통계",
+        "playerJoinedLabel": "가입 ",
+        "playerJoined": "{{days}} 날",
+        "statisticsSubHeading": "K/D / Wins % / Wins / Most kills",
+        "modeSingleLabel": "솔로",
+        "modeDuosLabel": "듀오",
+        "modeSquadsLabel": "스쿼드",
+        "mode32vs32Label": "32vs32",
+        "lastUpdatedTime": "마지막 업데이트 {{ dateTime, MM/DD/YYYY HH:mm:ss }}UTC"
+    },
+    "sarStoreCard": {
+        "type": {
+            "ticket": {
+                "title": "S.A.W.숍"
+            },
+            "coin": {
+                "title": "칼의 카트 아이템"
+            }
+        },
+        "dateTime": "{{ dateTime, MM/DD/YYYY HH:mm:ss }}UTC"
+    }
+}

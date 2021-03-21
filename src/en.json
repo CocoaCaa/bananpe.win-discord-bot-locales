@@ -30,7 +30,7 @@
                 "description": "[Beta] Display current S.A.W Shop items"
             },
             "shop-preview-carl": {
-                "example":"{{ prefix }} shop-preview-saw",
+                "example":"{{ prefix }} shop-preview-carl",
                 "description": "[Beta] Display current Cackling Carl's Cart items"
             },
             "admin": {

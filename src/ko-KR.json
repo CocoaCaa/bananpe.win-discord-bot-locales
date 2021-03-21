@@ -2,7 +2,7 @@
     "pleaseWait": "잠시만 기다려주세요 ...",
     "profileLinked": "{{ userId }} success connect {{ steamUserDisplayName }} profile, you could see your stats by `!bp rank`\nNotes: you could change your language by `!bp lang`",
     "serverLinked": "{{ userId }} success connect your profile with {{ serverName }}",
-    "languageUpdated": "{{ userId }} Display language changed to English",
+    "languageUpdated": "{{ userId }} 표시 언어가 한국어로 변경됨",
     "informationHide": "정보가 숨겨졌습니다",
     "admin": {
         "setAllowChannels": "Now only accept command in {{ channel }}"

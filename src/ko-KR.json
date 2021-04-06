@@ -78,6 +78,6 @@
                 "title": "칼의 카트 아이템"
             }
         },
-        "dateTime": "{{ dateTime, MM/DD/YYYY HH:mm:ss }}UTC"
+        "dateTime": "{{ dateTime, MM/DD/YYYY HH시 }}"
     }
 }

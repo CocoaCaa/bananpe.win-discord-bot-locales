@@ -78,6 +78,6 @@
                 "title": "Cackling Carl's Cart"
             }
         },
-        "dateTime": "{{ dateTime, MM/DD/YYYY HH:mm:ss }}UTC"
+        "dateTime": "{{ dateTime, MM/DD/YYYY HHA }}"
     }
 }

@@ -78,6 +78,6 @@
                 "title": "CARL 的咔咔车"
             }
         },
-        "dateTime": "{{ dateTime, YYYY年MM月DD日 HH:mm:ss }}UTC"
+        "dateTime": "{{ dateTime, YYYY年MM月DD日 HH时 }}"
     }
 }

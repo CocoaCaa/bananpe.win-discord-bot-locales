@@ -11,7 +11,7 @@
         "commands": {
             "help": {
                 "example": "{{ prefix }} help",
-                "description": "顯示呢個幫助"
+                "description": "顯示呢個幫助訊息"
             },
             "link": {
                 "example": "{{ prefix }} link <你嘅 Steam 首頁網址 | Steam ID | 自定義網址名稱>",
@@ -53,7 +53,7 @@
         "onlyInGuildCommand": "你只可以係伺服器入面用呢個指令",
         "noPlayFabData": "呢個玩家都未玩過 SAR",
         "noPermission": "你冇權執行呢個命令",
-        "missingShopItem": "{{ itemId }} 唔知係乜嘢，請找 <@!430880587742576640> 增加呢個物品"
+        "missingShopItem": "唔知 {{ itemId }} 係乜嘢，請找 <@!430880587742576640> 增加呢個物品"
     },
     "rankingPlayerCard": {
         "byServerRanking": "按伺服器的排名",

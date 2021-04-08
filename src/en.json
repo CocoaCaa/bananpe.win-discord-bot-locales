@@ -1,7 +1,7 @@
 {
     "pleaseWait": "Please wait...",
-    "profileLinked": "{{ userId }} has successly connected with {{ steamUserDisplayName }} profile, you could see your stats by `!bp rank`\nNotes: you could change your language by `!bp lang`",
-    "serverLinked": "{{ userId }} has successly connected your profile with {{ serverName }}",
+    "profileLinked": "{{ userId }} has successfully connected with {{ steamUserDisplayName }} profile, you could see your stats by `!bp rank`\nNotes: you could change your language by `!bp lang`",
+    "serverLinked": "{{ userId }} has successfully connected your profile with {{ serverName }}",
     "languageUpdated": "{{ userId }} Language changed to English",
     "informationHide": "The information has been hidden",
     "admin": {

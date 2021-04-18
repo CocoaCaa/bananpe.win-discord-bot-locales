@@ -67,6 +67,7 @@
         "modeDuosLabel": "Duo",
         "modeSquadsLabel": "Squads",
         "mode32vs32Label": "32vs32",
+        "modeMysteryLabel": "Mystery",
         "lastUpdatedTime": "Last updated {{ dateTime, MM/DD/YYYY HH:mm:ss }}UTC"
     },
     "sarStoreCard": {

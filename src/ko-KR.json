@@ -67,6 +67,7 @@
         "modeDuosLabel": "듀오",
         "modeSquadsLabel": "스쿼드",
         "mode32vs32Label": "32vs32",
+        "modeMysteryLabel": "수수께끼",
         "lastUpdatedTime": "마지막 업데이트 {{ dateTime, MM/DD/YYYY HH:mm:ss }}UTC"
     },
     "sarStoreCard": {

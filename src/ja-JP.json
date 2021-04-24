@@ -1,0 +1,84 @@
+{
+    "pleaseWait": "読み込み中。。。",
+    "profileLinked": "{{ userId }} {{ steamUserDisplayName }}のユーザープロフィールにリンクすると、`!bp rank`で自分の統計カードを見ることができます。\nNotes: you could change your language by `!bp lang`",
+    "serverLinked": "{{ userId }} success connect your profile with {{ serverName }}",
+    "languageUpdated": "{{ userId }} 表示言語を日本語に変更",
+    "informationHide": "情報は非表示になっています",
+    "admin": {
+        "setAllowChannels": "Now only accept command in {{ channel }}"
+    },
+    "help": {
+        "commands": {
+            "help": {
+                "example": "{{ prefix }} help",
+                "description": "このヘルプを表示する"
+            },
+            "link": {
+                "example": "{{ prefix }} link <Your Steam profile URL | Steam ID | Custom name>",
+                "description": "Steamユーザープロファイルをリンク"
+            },
+            "rank": {
+                "example": "{{ prefix }} rank",
+                "description": "現在のDiscordサーバーにユーザープロファイル統計カードの表示"
+            },
+            "lang": {
+                "example": "{{ prefix }} lang",
+                "description": "表示言語の設定 Set your display language"
+            },
+            "shop-preview-saw": {
+                "example":"{{ prefix }} shop-preview-saw",
+                "description": "[ベータ] 現在のS.A.W.ショップアイテムを表示"
+            },
+            "shop-preview-carl": {
+                "example":"{{ prefix }} shop-preview-carl",
+                "description": "[ベータ] 現在のカールカートアイテムを表示"
+            },
+            "admin": {
+                "example": "{{ prefix }} admin setchannel",
+                "description": "Admin commands"
+            },
+            "fox": {
+                "example": "{{ prefix }} fox",
+                "description": "Fox!"
+            }
+        }
+    },
+    "errors": {
+        "commandNotFound": "コマンドが見つかりません",
+        "invalidCommandUsage": "コマンドの使用法が無効です `{{ commandUsage }}`",
+        "internal": "内部サーバーエラーが発生しましたので、後でもう一度お試しください。",
+        "invalidSteamUserProfileUrl": "無効なSteamユーザープロファイルのURL",
+        "invalidSteamUserProfile": "無効なSteamユーザープロファイル",
+        "profileNotLink": "プロファイルがリンクされていません。コマンド`!bp link <Your Steam profile URL>`を使用してプロファイルをリンクしてください。",
+        "onlyInGuildCommand": "このコマンドは、Discordサーバーでのみ使用できます",
+        "noPlayFabData": "このプレイヤーはまだ Super Animal Royale をプレイしていません。",
+        "noPermission": "許可していません",
+        "missingShopItem": "{{ itemId }} didn't know what is it, please find <@!430880587742576640> for help"
+    },
+    "rankingPlayerCard": {
+        "byServerRanking": "Discordサーバー順位",
+        "levelRankLabel": "順位",
+        "playerExp": "{{exp}} / {{maxExp}}xp",
+        "statisticsHeading": "統計",
+        "playerJoinedLabel": "",
+        "playerJoined": "{{days}}日",
+        "statisticsSubHeading": "キル数/デス / 勝率 / 勝利数 / 最大キル数",
+        "modeSingleLabel": "ソロ",
+        "modeDuosLabel": "デュオ",
+        "modeSquadsLabel": "スクアッド",
+        "mode32vs32Label": "32対32",
+        "modeMysteryLabel": "Mystery",
+        "lastUpdatedTime": "最終更新 {{ dateTime, MM/DD/YYYY HH:mm:ss }}UTC"
+    },
+    "sarStoreCard": {
+        "type": {
+            "ticket": {
+                "title": "S.A.W.ショップ"
+            },
+            "coin": {
+                "title": "カールカート"
+            }
+        },
+        "dateTime": "{{ dateTime, MM/DD/YYYY hA }}"
+    }
+}

@@ -3,6 +3,7 @@
     "profileLinked": "{{ userId }} 成功連結咗{{ steamUserDisplayName }}嘅資料，你可以用 `!bp rank` 嚟睇下你嘅統計資料\nNotes: you could change your language by `!bp lang`",
     "serverLinked": "{{ userId }} 成功連結咗你同{{ serverName }}嘅資料",
     "languageUpdated": "{{ userId }} 語言已更改為中文（香港）",
+    "languageReset": "{{ userId }} 顯示語言已經重置咗做伺服器默認",
     "informationHide": "資料已隱藏咗",
     "admin": {
         "setAllowChannels": "現在只會接受 {{ channel }} 嘅指令"

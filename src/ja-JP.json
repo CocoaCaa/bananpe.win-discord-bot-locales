@@ -3,6 +3,7 @@
     "profileLinked": "{{ userId }} {{ steamUserDisplayName }}のユーザープロフィールにリンクすると、`!bp rank`で自分の統計カードを見ることができます。\nNotes: you could change your language by `!bp lang`",
     "serverLinked": "{{ userId }} success connect your profile with {{ serverName }}",
     "languageUpdated": "{{ userId }} 表示言語を日本語に変更",
+    "languageReset": "{{ userId }} 表示言語をサーバーの初期設定に戻す",
     "informationHide": "情報は非表示になっています",
     "admin": {
         "setAllowChannels": "Now only accept command in {{ channel }}"

@@ -3,6 +3,7 @@
     "profileLinked": "{{ userId }} success connect {{ steamUserDisplayName }} profile, you could see your stats by `!bp rank`\nNotes: you could change your language by `!bp lang`",
     "serverLinked": "{{ userId }} success connect your profile with {{ serverName }}",
     "languageUpdated": "{{ userId }} Display language changed to English",
+    "languageReset": "{{ userId }} Display language reset to server default",
     "informationHide": "The information has been hide",
     "admin": {
         "setAllowChannels": "Now only accept command in {{ channel }}"

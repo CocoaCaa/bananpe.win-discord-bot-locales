@@ -67,7 +67,7 @@
         "modeSingleLabel": "ソロ",
         "modeDuosLabel": "デュオ",
         "modeSquadsLabel": "スクアッド",
-        "mode32vs32Label": "32対32",
+        "mode32vs32Label": "SvR",
         "modeMysteryLabel": "Mystery",
         "lastUpdatedTime": "最終更新 {{ dateTime, MM/DD/YYYY HH:mm:ss }}UTC"
     },
